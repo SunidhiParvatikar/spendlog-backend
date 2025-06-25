@@ -1,4 +1,7 @@
-![Spendlog Preview](Output.png)
+![App Preview](https://github.com/SunidhiParvatikar/spendlog-backend/blob/main/Output.png)
+
+
+
 
 🧾 Spendlog – Smart Expense Tracker 💸
 Spendlog is a simple and fun full-stack web application that helps you track your daily expenses visually and efficiently. It features a clean UI, real-time updates, and a dynamic pie chart to break down where your money goes!
